@@ -1,0 +1,172 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin:0px;
+    background-color: #f2f2f2;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+/* HEADER */
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height:100px;
+    box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
+}
+
+.logo img {
+    object-fit: cover;
+    height: 35px;
+}
+
+header p {
+    display: flex;
+    justify-content: center;
+}
+
+header i {
+    margin-right:15px;
+}
+
+/* MAIN */
+
+main {
+    background-color: #f2f2f2;
+    border-radius: 15px 15px 0px 0px;
+}
+
+h3 {
+    margin-left:25px;
+    color:#727272;
+}
+
+.barre-bleue {
+    height:3px;
+    width:45px;
+    background-color: #99E2D0;
+    margin-left:25px;
+    margin-top:-15px;
+    margin-bottom:10px;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 2.3em;
+    letter-spacing: 1px;
+}
+
+.photo {
+    display: flex;
+    flex-direction: column;
+}
+.titre-restaurant {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-right:30px;
+    padding-left:30px;
+    margin-top:-103px;
+    background-color: #f2f2f2;
+    z-index:1;
+    border-radius: 50px 50px 0px 0px;
+}
+
+.line-menu {
+    background-color: white;
+    width: 80%;
+    border-radius:15px;
+    margin:10px;
+    -webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.6); 
+    box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.6);
+    display: flex;
+    flex-direction: column;
+    padding:15px;
+}
+
+.info-line { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.line-menu p,h2 {
+    margin:0px;
+}
+
+.line-menu h2 {
+    font-weight: 600;
+}
+
+.bouton-commander {
+    display: flex;
+    justify-content: center;
+    margin-top:35px;
+}
+
+.photo img {
+    object-fit: cover;
+    height: 440px;
+    width:100%;
+    z-index: auto;
+}
+
+.dash-entrée {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dash-plats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dash-desserts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* BOUTON DEGRADE */
+
+.lineaire-simple {
+    background: linear-gradient(#FF79DA, #9356DC);
+    color:white;
+    font-weight: bold;
+    font-size: 0.9em;
+    height:50px;
+    width:60%;
+    max-width:350px;
+    min-width:175px;
+    border-radius: 30px;
+    border-style: none;
+    margin-bottom:50px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #353535;
+}
+
+.logo-footer {
+    padding:25px 0px 25px 25px;
+    color: white;
+}
+
+.logo-footer img {
+    object-fit: cover;
+    height: 25px;
+    filter:invert(1);
+}
+
+footer i { 
+    margin-right:15px;
+}
