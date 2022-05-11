@@ -28,17 +28,17 @@ header i {
     margin-right:15px;
 }
 
-.accroche { 
+.header-hook { 
     padding: 10px 45px 45px 45px;
     text-align: center;
     background-color: #f2f2f2;
 }
-.bloc-restaurant img {
+.bloc-rest img {
     object-fit: cover;
     height:50px;
 }
 
-.lineaire-simple {
+.degrad-btn {
     background: linear-gradient(#FF79DA, #9356DC);
     color:white;
     font-weight: bold;
@@ -52,7 +52,7 @@ header i {
 }
 
 
-.fonctionnement {
+.bloc-fctn {
     background-color: white;
     padding-top:25px;
     padding-bottom:55px;
@@ -62,16 +62,16 @@ header i {
 
 }
 
-.fonctionnement h2 {
+.bloc-fctn h2 {
     margin-left:20px;
 }
 
 
-.f-1::before {
+.bloc-fctn__num1::before {
     content: "1";
 }
 
-.f-1, .f-2, .f-3 {
+.bloc-fctn__num1, .bloc-fctn__num2, .bloc-fctn__num3 {
     width:25px;
     height: 25px;
     background-color: #9356DC;
@@ -85,24 +85,24 @@ header i {
     z-index: 1;
 }
 
-.rubrique-fonct {
+.bloc-fctn__line {
     display: flex;
     align-items: baseline;
 }
 
-.f-2::before {
+.bloc-fctn__num2::before {
     content: "2";
 }
 
-.f-3::before {
+.bloc-fctn__num3::before {
     content: "3";
 }
 
-.surpanneau-restaurants {
+.overpanel-rest {
     background-color: #f2f2f2;
 }
 
-.restaurants { 
+.panel-rest { 
     background-color: #f2f2f2;
     margin-top:-20px;
     display: flex;
@@ -110,7 +110,7 @@ header i {
     align-items: center;
 }
 
-.bloc-restaurant {
+.bloc-rest {
     height:300px;
     width:95%;
     margin: 20px;
@@ -119,14 +119,14 @@ header i {
     box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
 }
 
-.bloc-restaurant img {
+.bloc-rest img {
     object-fit: cover;
     border-radius: 15px 15px 0px 0px;
     height: 70%;
     width: 100%;
 }
 
-.nouveau {
+.new {
     position: absolute;
     font-weight: bold;
     background-color:#99e2d0;
@@ -141,7 +141,7 @@ header i {
     margin-top: 20px;
 }
 
-.info-bloc {
+.bloc-rest__info-bloc {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -149,16 +149,16 @@ header i {
     padding: 5px 28px 10px 18px;
 }
 
-.hearth i {
+.bloc-rest__hearth i {
     font-size: 1.4em;
     color:#616060;
 }
 
-.txt-bloc {
+.bloc-rest__txt {
     line-height: 0.5em;
 }
 
-.fonct {
+.bloc-fctn__txt {
     background-color: #f2f2f2;
     display: flex;
     flex-direction: row;
@@ -171,12 +171,12 @@ header i {
     box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
 }
 
-.fonct i {
+.bloc-fctn__txt i {
     margin-right:25px;
     color: grey;
 }
 
-.fonct i:hover {
+.bloc-fctn__txt i:hover {
     margin-right: 25px;
     color:#9356DC;
 }
@@ -197,12 +197,12 @@ footer {
     background-color: #353535;
 }
 
-.logo-footer {
+.footer__logo {
     padding:25px 0px 25px 25px;
     color: white;
 }
 
-.logo-footer img {
+.footer__logo img {
     object-fit: cover;
     height: 25px;
     filter:invert(1);

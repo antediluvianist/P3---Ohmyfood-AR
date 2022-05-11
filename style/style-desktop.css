@@ -1,4 +1,4 @@
-.fonctionnement {
+.bloc-fctn {
     flex-direction: row;
     justify-content: center;
     padding-top:0px;
@@ -6,35 +6,35 @@
     flex-wrap: wrap;
 }
 
-.lineaire-simple {
+.degrad-btn {
     max-width:350px;
 }
 
-.fonct {
+.bloc-fctn__txt {
     max-width: 350px;
 }
 
-.fonct i {
+.bloc-fctn__txt i {
     margin-right:25px;
     color: grey;
 }
 
-.fonct i:hover {
+.bloc-fctn__txt i:hover {
     margin-right: 25px;
     color:#9356DC;
 }
 
-.restaurants {
+.panel-rest {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.bloc-restaurant {
+.bloc-rest {
     width:25%;
     min-width: 400px;
 }
 
-.nouveau {
+.new {
     margin-left: 300px;
 }
