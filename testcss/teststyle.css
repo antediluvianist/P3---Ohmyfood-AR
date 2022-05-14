@@ -1,0 +1,18 @@
+.menu-line:hover {
+  transform: translate(90px, 0px);
+}
+
+.menu-line:hover .fa-circle-check {
+  visibility: visible;
+}
+
+.bloc-rest__hearth i {
+  font-size: 1.4em;
+  color: #616060;
+  cursor: pointer;
+}
+.bloc-rest__hearth i:hover {
+  color: linear-gradient(#FF79DA, #9356DC);
+}
+
+/*# sourceMappingURL=teststyle.css.map */

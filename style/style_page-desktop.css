@@ -24,3 +24,7 @@ main {
     width:25%;
     min-width: 400px;
 }
+
+.menu-line {
+    height:100px;
+}

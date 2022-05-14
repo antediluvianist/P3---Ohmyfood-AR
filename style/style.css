@@ -51,7 +51,6 @@ header i {
     border-style: none;
 }
 
-
 .bloc-fctn {
     background-color: white;
     padding-top:25px;
@@ -152,7 +151,11 @@ header i {
 .bloc-rest__hearth i {
     font-size: 1.4em;
     color:#616060;
+    cursor: pointer;
 }
+.bloc-rest__hearth i:hover {
+    color: linear-gradient(#FF79DA, #9356DC);
+  }
 
 .bloc-rest__txt {
     line-height: 0.5em;
