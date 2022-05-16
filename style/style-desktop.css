@@ -23,7 +23,10 @@
     margin-right: 25px;
     color:#9356DC;
 }
-
+section h2 {
+    display:flex;
+    justify-content:center;
+}
 .panel-rest {
     flex-direction: row;
     flex-wrap: wrap;

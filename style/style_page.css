@@ -6,6 +6,7 @@ body {
 
 p {
     font-size: 1.2em;
+    font-weight: 300;
 }
 
 /* HEADER */
@@ -42,6 +43,7 @@ main {
 
 h3 {
     margin-left:25px;
+    font-weight: 500;
     color:#727272;
 }
 
@@ -58,6 +60,7 @@ h1 {
     font-family: 'Shrikhand', cursive;
     font-size: 2.3em;
     letter-spacing: 1px;
+    font-weight:500;
 }
 
 .rest-pic {
