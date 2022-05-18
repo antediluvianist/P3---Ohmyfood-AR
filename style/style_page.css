@@ -94,11 +94,16 @@ h1 {
     animation: fadein 2000ms;
     -moz-animation: fadein 2000ms;
     -moz-animation: slidein 1000ms;
+    transition: transform ease-in-out .6s;
 }
 
 .menu-line:hover .fa-circle-check {
     visibility: visible;
   }
+
+.menu-line:hover {
+    transform: scale(1.1);
+}
 
 .fa-circle-check {
     visibility:hidden;
@@ -169,6 +174,14 @@ h1 {
     display: flex;
     justify-content: center;
     margin-top:35px;
+}
+
+.degrad-btn {
+    transition: transform ease-in-out .3s;
+}
+
+.degrad-btn:hover {
+    transform: scale(1.1);
 }
 
 .rest-pic img {
