@@ -20,3 +20,16 @@
         color: linear-gradient(#FF79DA, #9356DC);
     }
 }
+
+.hearth-full {
+.fa-solid {
+    &.fa-heart {
+        visibility:hidden;
+    }
+    &:hover {
+        &.fa-heart {
+            visibility:visible;
+       }
+}
+}
+}
