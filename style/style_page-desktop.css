@@ -1,6 +1,19 @@
+body {
+    max-width: 1345px;
+}
+
 main {
     display: flex;
-    justify-content: center;
+    flex-wrap:wrap;
+    justify-content:flex-start;
+    margin-left:2%;
+}
+
+@media all and (min-width:767px) and (max-width:1164px) {
+    main {
+        justify-content:flex-start;
+        margin-left:8%;
+    }
 }
 
 .bloc-fctn {
@@ -26,6 +39,6 @@ main {
 }
 
 .menu-line {
-    height:100px;
-    width:250px;
+    height:81px;
+    width:415px;
 }
