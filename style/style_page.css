@@ -174,10 +174,10 @@ h1 {
 	height: 35px;
 	width: 35px;
   }
-  .rest-title .rest-title__container-hearth:hover .rest-title__hearth-full {
+  .rest-title .rest-title__container-hearth:active .rest-title__hearth-full {
 	visibility: visible;
   }
-  .rest-title .rest-title__container-hearth:hover .rest-title__hearth-empty {
+  .rest-title .rest-title__container-hearth:active .rest-title__hearth-empty {
 	visibility: hidden;
   }
   
@@ -189,6 +189,7 @@ h1 {
 	width: 0;
 	height: 0;
 	font-size: 30px;
+	cursor:pointer;
   }
 
   .fa-regular {
@@ -199,7 +200,8 @@ h1 {
 	color: #f2f2f2;
 }
   
-  .rest-title__container-hearth:hover {
+  .rest-title__container-hearth:active {
+	cursor:pointer;
 	transition: 1000ms;
 	background: linear-gradient(#FF79DA, #9356DC);
 	-webkit-background-clip: text;

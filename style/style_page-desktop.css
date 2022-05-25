@@ -1,7 +1,3 @@
-body {
-    max-width: 1345px;
-}
-
 main {
     display: flex;
     flex-wrap:wrap;
@@ -9,10 +5,16 @@ main {
     margin-left:2%;
 }
 
-@media all and (min-width:767px) and (max-width:1164px) {
+@media all and (min-width:1330px) and (max-width:9999px) {
+    main {
+        justify-content:center;
+    }
+}
+
+@media all and (min-width:767px) and (max-width:978px) {
     main {
         justify-content:flex-start;
-        margin-left:8%;
+        margin-left:5%;
     }
 }
 
