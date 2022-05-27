@@ -24,8 +24,9 @@
 
 This is a school project, which contains Ohmyfood! : a restaurant booking website.
 
-- Mobile's first.
-- Responsive.
+- Include animations
+- Mobile's first
+- Responsive
 
 ///USED///
 
