@@ -30,15 +30,6 @@ h1 {
 	font-size:16px;
 }
 
-/* ========================Scrollbar=========================== */
-body::-webkit-scrollbar {
-	display: none;
-  }
-
-html {
-	scrollbar-width: none;
-}
-
 
 /* HEADER */
 
