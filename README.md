@@ -1,19 +1,13 @@
 <pre style="line-height:1em">
-  __________                   .___                 
-  \______   \ ____ _____     __| _/   _____   ____  
-   |       _// __ \\__  \   / __ |   /     \_/ __ \ 
-   |    |   \  ___/ / __ \_/ /_/ |  |  Y Y  \  ___/ 
-   |____|_  /\___  >____  /\____ |  |__|_|  /\___  >
-          \/     \/     \/      \/        \/     \/
-        
+      
        _..------.._
      /              \              ___     .--__.---.__
    /                 \          .-'   '---/q/   \p .-. '--__/\-/\-/\
-  /      W O R K      \        :_---__-__         /  _-\    /\ ^  ^
- :                     :        VvvvV VvV'-____:/   /   |   .
- (         I N         '--_            : /  VvvV-) /        :     .--
- :                     .-'           A/ ( (   )  )/    /         /
-  :  P R O G R E S S  :            A/  /         /    /   /     /
+  /                   \        :_---__-__         /  _-\    /\ ^  ^
+ :       R E A D       :        VvvvV VvV'-____:/   /   |   .
+ (                     '--_            : /  VvvV-) /        :     .--
+ :         M E         .-'           A/ ( (   )  )/    /         /
+  :                   :            A/  /         /    /   /     /
    .                 :        A_A.   A_--AA_./  /    /   /     /
     \               /         '  '--'  /      /    /    /     :
        '--..__..--'            \_---___-----./_.---.__________|   /
@@ -24,8 +18,9 @@
 
 This is a school project, which contains Ohmyfood! : a restaurant booking website.
 
-- Mobile's first.
-- Responsive.
+- Include animations
+- Mobile's first
+- Responsive
 
 ///USED///
 
