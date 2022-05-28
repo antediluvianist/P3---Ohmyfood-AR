@@ -1,7 +1,7 @@
 {
   "name": "p3",
   "version": "1.0.0",
-  "description": "<pre style=\"line-height:1em\">\r   __________                   .___                 \r   \\______   \\ ____ _____     __| _/   _____   ____  \r    |       _// __ \\\\__  \\   / __ |   /     \\_/ __ \\ \r    |    |   \\  ___/ / __ \\_/ /_/ |  |  Y Y  \\  ___/ \r    |____|_  /\\___  >____  /\\____ |  |__|_|  /\\___  >\r           \\/     \\/     \\/      \\/        \\/     \\/",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch ./sass/main.scss:./testcss/teststyle.css --style expanded",
