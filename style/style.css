@@ -19,9 +19,12 @@
 @keyframes content {
 	0% {
 		opacity:0;
+		scale:0;
+		height:0;
 	}
 	25% {
 		opacity:0.25;
+		scale:1;
 	}
 	50% {
 		opacity:0.5;
@@ -42,6 +45,7 @@
 	display:flex;
 	justify-content:center;
 	align-items:center;
+	height:100%;
 }
 
 .bar {
