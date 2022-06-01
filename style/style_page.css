@@ -78,14 +78,14 @@ header i {
 	display: flex;
 	-webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
-	    -ms-flex-direction: row;
-	        flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
 	-webkit-box-align: baseline;
-	    -ms-flex-align: baseline;
-	        align-items: baseline;
+	-ms-flex-align: baseline;
+	align-items: baseline;
 	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
 	padding-right: 30px;
 	padding-left: 30px;
 	margin-top: -75px;
@@ -245,7 +245,7 @@ h3 {
 	overflow: hidden;
 	white-space: nowrap;
 	-o-text-overflow: ellipsis;
-	   text-overflow: ellipsis;
+	text-overflow: ellipsis;
 	background: white;
 	margin-bottom: 15px;
 	padding-right: 25px;
@@ -254,15 +254,15 @@ h3 {
 	-o-transition: 0.3s;
 	transition: 0.3s;
 	-webkit-animation: fadein 2000ms, slidein 1000ms;
-	        animation: fadein 2000ms, slidein 1000ms;
-	  -moz-animation: fadein 2000ms, slidein 1000ms;
-	  -webkit-transition: -webkit-transform ease-in-out .6s;
-	  transition: -webkit-transform ease-in-out .6s;
-	  -o-transition: transform ease-in-out .6s;
-	  transition: transform ease-in-out .6s;
-	  transition: transform ease-in-out .6s, -webkit-transform ease-in-out .6s;
-	  -webkit-box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
-	          box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
+	animation: fadein 2000ms, slidein 1000ms;
+	-moz-animation: fadein 2000ms, slidein 1000ms;
+	-webkit-transition: -webkit-transform ease-in-out .6s;
+	transition: -webkit-transform ease-in-out .6s;
+	-o-transition: transform ease-in-out .6s;
+	transition: transform ease-in-out .6s;
+	transition: transform ease-in-out .6s, -webkit-transform ease-in-out .6s;
+	-webkit-box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
+	box-shadow: 0px 3px 8px 1px rgba(156, 156, 156, 0.39);
   }
   
   .menu-line:hover .menu-line__graph {
