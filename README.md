@@ -38,6 +38,8 @@ Ohmyfood! : a restaurant booking website.
 
 ![menuanim](https://user-images.githubusercontent.com/104685771/203193378-e3decf2e-9da2-40ab-bf2a-a0625cb2f18f.gif)
 
+![menuappAnim](https://user-images.githubusercontent.com/104685771/203194214-2c26e8e9-7ff6-4e3e-b8ae-8805fd79407d.gif)
+
 # DEPLOYMENT LINK
 
 https://all-hexes.github.io/P3---Ohmyfood-AR/
