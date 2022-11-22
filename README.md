@@ -32,13 +32,11 @@ Ohmyfood! : a restaurant booking website.
 
 ![Menu - À la française](https://user-images.githubusercontent.com/104685771/203190170-360c9d3d-01cf-4ea2-a749-954a53f4130e.png)
 
-# ANIMATIONS RESULTS
+# ANIMATIONS
 
 ![blocanim](https://user-images.githubusercontent.com/104685771/203193283-991a8d40-fdf0-4b70-81ad-38b30c571c1c.gif)
 
 ![menuanim](https://user-images.githubusercontent.com/104685771/203193378-e3decf2e-9da2-40ab-bf2a-a0625cb2f18f.gif)
-
-![menuappAnim](https://user-images.githubusercontent.com/104685771/203194214-2c26e8e9-7ff6-4e3e-b8ae-8805fd79407d.gif)
 
 # DEPLOYMENT LINK
 
