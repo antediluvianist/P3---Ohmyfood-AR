@@ -34,7 +34,7 @@ Ohmyfood! : a restaurant booking website.
 
 # ANIMATIONS
 
-![blocanim](https://user-images.githubusercontent.com/104685771/203193283-991a8d40-fdf0-4b70-81ad-38b30c571c1c.gif)
+![newblocanim](https://user-images.githubusercontent.com/104685771/203195505-35673b8a-1a54-4393-be2c-c66faf8790ec.gif)
 
 ![menuanim](https://user-images.githubusercontent.com/104685771/203193378-e3decf2e-9da2-40ab-bf2a-a0625cb2f18f.gif)
 
