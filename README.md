@@ -22,4 +22,16 @@ Ohmyfood! : a restaurant booking website.
 - HTML5 & CSS3
 - Framework : Sass
 
-Link : https://all-hexes.github.io/P3---Ohmyfood-AR/
+# MOCKUP
+
+(home)
+
+![Accueil](https://user-images.githubusercontent.com/104685771/203190153-3150be5e-5e71-4607-9d14-6736654cc929.png)
+
+(page)
+
+![Menu - À la française](https://user-images.githubusercontent.com/104685771/203190170-360c9d3d-01cf-4ea2-a749-954a53f4130e.png)
+
+# DEPLOYMENT LINK
+
+https://all-hexes.github.io/P3---Ohmyfood-AR/
